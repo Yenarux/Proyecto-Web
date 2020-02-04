@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-        
-    <wb-module deploy-name="Proyecto web">
-                
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-                
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/jsp"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/css"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/js"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/class"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/img"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/fonts"/>
-                
-        <property name="context-root" value="Proyecto_web"/>
-                
-        <property name="java-output-path" value="/Proyecto web/build/classes"/>
             
-    </wb-module>
     
+    <wb-module deploy-name="Proyecto web">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/jsp"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/css"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/js"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/class"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/img"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/fonts"/>
+                        
+        
+        <property name="context-root" value="Proyecto_web"/>
+                        
+        
+        <property name="java-output-path" value="/Proyecto web/build/classes"/>
+                    
+    
+    </wb-module>
+        
+
 </project-modules>
